@@ -1,4 +1,3 @@
-﻿# AngularMVC
 Visual Studio 2015 Setup
                -Need to have Update 3 installed
                               -to find out please go  to in ribbon
